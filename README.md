@@ -24,7 +24,11 @@ Access Swagger UI at http://127.0.0.1:8000/docs to test all endpoints.
 Endpoints
 
 POST /tasks/: Create a task
+
 GET /tasks/: List all tasks
+
 GET /tasks/{id}: Get task by ID
+
 PUT /tasks/{id}/status: Update task status
+
 DELETE /tasks/{id}: Delete task
